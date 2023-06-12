@@ -1,2 +1,2 @@
 # PoolJS
-plusieurs petits exercices JS
+plusieurs petits exercices JS réalisés en cours
